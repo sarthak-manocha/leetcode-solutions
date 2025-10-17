@@ -1,0 +1,20 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "This repo is for my LeetCode interview prep: solutions by difficulty (Easy / Medium / Hard) with notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak-manocha/leetcode-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthak-manocha/leetcode-solutions/issues"
+  },
+  "homepage": "https://github.com/sarthak-manocha/leetcode-solutions#readme"
+}
